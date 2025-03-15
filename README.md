@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**redshoot8/redshoot8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎵 Listening now
 
-Here are some ideas to get you started:
+[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/wud7kgn1szofgb5a5c2krs0nt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub stats
+
+![Твоя статистика GitHub](https://github-readme-stats.vercel.app/api?username=redshoot8&show_icons=true&theme=radical)
+
+## 🛠️ Languages and Frameworks
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
