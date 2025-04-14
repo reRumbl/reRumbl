@@ -1,8 +1,12 @@
 # Hi there! 👋
 
+## 🎵 Listening now
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wud7kgn1szofgb5a5c2krs0nt&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wud7kgn1szofgb5a5c2krs0nt&redirect=true)
+
 ## 🎵 Favorite music
 
-Linkin Park my favorite and I really like Tritia, Nirvana, Bring Me The Horizon, Three Days Grace, Metallica, BFMV and many other.
+**Linkin Park** my favorite and I really like **Nirvana**, **Bring Me The Horizon**, **Three Days Grace**, **Metallica**, **BFMV** and many other.
 
 Listening this everyday on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
