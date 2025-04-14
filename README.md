@@ -6,9 +6,9 @@
 
 ## 🎵 Favorite music
 
-**Linkin Park** my favorite and I really like **Nirvana**, **Bring Me The Horizon**, **Three Days Grace**, **Metallica**, **BFMV** and many other.
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-Listening this everyday on ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+**Linkin Park** my favorite and I really like **Nirvana**, **Bring Me The Horizon**, **Three Days Grace**, **Metallica**, **BFMV** and many other.
 
 ## 📊 My GitHub stats
 
