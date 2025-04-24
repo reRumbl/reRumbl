@@ -6,7 +6,7 @@
 
 ## 🎵 Favorite music
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wud7kgn1szofgb5a5c2krs0nt)
 
 **Linkin Park** my favorite and I really like **Nirvana**, **Bring Me The Horizon**, **Three Days Grace**, **Metallica**, **BFMV** and many other.
 
